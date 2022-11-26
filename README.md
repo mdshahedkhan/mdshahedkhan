@@ -27,4 +27,4 @@ of my professional ability in terms of, technical and analytical skills, and hel
 }
 ```
 
-<img src="https://github-readme-stats.vercel.app/api/?username=mdshahedkhan&show_icons=true&title_color=#454441&icon_color=79ff97&text_color=#454441&bg_color=#dedcd7">
+<img src="https://github-readme-stats.vercel.app/api?username=mdshahedkhan&theme=dark&show_icons=true">
