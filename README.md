@@ -21,6 +21,7 @@ of my professional ability in terms of, technical and analytical skills, and hel
   Languages: ['JavaScript', 'PHP', 'Python', 'C', 'Java'], 
   Framework: ['Laravel', 'Codeigniter'],
   Frontend: ['VueJs'],
+  Android: ['Java', 'Kotlin', 'Dart', 'Flatter', 'ReactNative']
   Databases: ["SQL"],
   Tools: ['PhpStorm', 'Postman', 'Trello', 'Slack'],
   Open Source: ['Git, GitHub']
