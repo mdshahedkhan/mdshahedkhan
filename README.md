@@ -20,7 +20,7 @@ of my professional ability in terms of, technical and analytical skills, and hel
 {
   Languages: ['JavaScript', 'PHP', 'Python', 'C', 'Java'], 
   Framework: ['Laravel', 'Codeigniter'],
-  Frontend: ['VueJs'],
+  Frontend: ['Vue.js', 'React.js'],
   Android: ['Java', 'Kotlin', 'Dart', 'Flatter', 'ReactNative']
   Databases: ['SQL', 'SQLITE', 'PostgreSql', 'MongoDB', 'Firebase'],
   Tools: ['PhpStorm', 'Postman', 'Trello', 'Slack', 'Intellij', 'WebStorm'],
