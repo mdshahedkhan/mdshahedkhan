@@ -11,14 +11,14 @@ of my professional ability in terms of, technical and analytical skills, and hel
 
 - 🔭 I’m currently working on Laravel, VueJS ReactJs NuxtJs NextJs Java Android(Development),
 - 🌱 I’m currently learning JAVA
-- 💬 Ask me about #Laravel #Codeigniter #PHP #MySQL #VueJS JAVA
+- 💬 Ask me about #Laravel #Codeigniter #PHP #MySQL #VueJS #JAVA
 - ⚡ Fun fact: Watch Bangla Natok for day long
 
 ## {...} My Stack 💻🚀
 
 ```js
 {
-  Languages: ['JavaScript', 'PHP', 'C Sharp', 'Java'], 
+  Languages: ['JavaScript', 'Java','PHP', 'C Sharp'], 
   Framework: ['Laravel', 'Codeigniter'],
   Frontend: ['Vue.js', 'React.js'],
   Android: ['Java', 'Kotlin', 'ReactNative']
