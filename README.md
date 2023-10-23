@@ -27,5 +27,3 @@ of my professional ability in terms of, technical and analytical skills, and hel
   Open Source: ['Git, GitHub']
 }
 ```
-
-<img src="https://github-readme-stats.vercel.app/api?username=mdshahedkhan&theme=dark&show_icons=true">
