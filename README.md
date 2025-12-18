@@ -30,7 +30,7 @@ I enjoy designing clean architectures, writing maintainable code, and continuous
 
 ## 🧰 My Full Tech Stack
 
-```js
+```json
 {
   "Languages": [
     "JavaScript",
@@ -86,4 +86,4 @@ I enjoy designing clean architectures, writing maintainable code, and continuous
     "GitHub"
   ]
 }
-"
+```
