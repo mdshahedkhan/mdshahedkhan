@@ -18,12 +18,12 @@ of my professional ability in terms of, technical and analytical skills, and hel
 
 ```js
 {
-  Languages: ['JavaScript', 'Java','PHP', 'C Sharp'], 
-  Framework: ['Laravel', 'Codeigniter'],
-  Frontend: ['Vue.js', 'React.js'],
-  Android: ['Java', 'Kotlin', 'ReactNative']
-  Databases: ['SQL', 'SQLITE', 'PostgreSql', 'MongoDB', 'Firebase'],
-  Tools: ['PhpStorm', 'Postman', 'Trello', 'Slack', 'Intellij', 'WebStorm', 'Android Studio'],
-  Open Source: ['Git, GitHub']
+  "Languages": ["JavaScript", "Java", "PHP", "C#"],
+  "Frameworks": ["Laravel", "CodeIgniter"],
+  "Frontend": ["Vue.js", "React.js"],
+  "Android": ["Java", "Kotlin", "React Native"],
+  "Databases": ["SQL", "SQLite", "PostgreSQL", "MongoDB", "Firebase"],
+  "Tools": ["PhpStorm", "Postman", "Trello", "Slack", "IntelliJ IDEA", "WebStorm", "Android Studio"],
+  "OpenSource": ["Git", "GitHub"]
 }
 ```
