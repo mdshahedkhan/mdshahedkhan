@@ -1,5 +1,6 @@
 <a target="_blank" href="#">
-  <img width="250" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" />
+  <img width="250" align="right"
+       src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" />
 </a>
 
 # 👋 Hi, I'm Shahed Khan
@@ -9,34 +10,68 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-Innovative and passionate **Full-Stack Developer** with **3+ years of professional experience** in building scalable web and mobile applications.  
-I enjoy solving complex problems, learning new technologies, and continuously improving my technical and analytical skills.
+I’m an **innovative Full-Stack Developer** with **3+ years of professional experience** building scalable web and mobile applications.  
+I specialize in **Laravel backend development**, modern **JavaScript frameworks**, and **Android development**, with strong experience in both SQL and NoSQL databases.
 
-I’m looking for opportunities that challenge me and help me grow as a developer while contributing to impactful projects.
+I enjoy designing clean architectures, writing maintainable code, and continuously learning new technologies.
 
 ---
 
-### 🔧 What I'm Up To
+## 🔧 What I'm Doing Now
 
-- 🔭 Currently working with **Laravel, Vue.js, React.js, Nuxt.js, Next.js & Android (Java)**
-- 🌱 Currently learning **Advanced Java**
-- 💬 Ask me about **Laravel, CodeIgniter, PHP, MySQL, Vue.js, Java**
+- 🔭 Working with **Laravel, Vue.js, React.js, Next.js, Nuxt.js & Android (Java)**
+- 🌱 Learning **Advanced Java & Backend Architecture**
+- 💬 Ask me about **Laravel, Eloquent ORM, CodeIgniter, PHP, MySQL, MongoDB, Vue.js, React, Next.js**
 - ⚡ Fun fact: I can watch **Bangla Natok** all day 😄
 
 ---
 
-## 🧰 My Tech Stack
+## 🧰 My Full Tech Stack
 
 ```js
 {
-  "Languages": ["JavaScript", "Java", "PHP", "C#"],
-  "Frameworks": ["Laravel", "CodeIgniter"],
-  "Frontend": ["Vue.js", "React.js"],
-  "Mobile": ["Android (Java)", "Kotlin", "React Native"],
-  "Databases": ["MySQL", "SQLite", "PostgreSQL", "MongoDB", "Firebase"],
-  "Tools": [
+  "Languages": [
+    "JavaScript",
+    "Java",
+    "PHP",
+    "C#"
+  ],
+
+  "Backend Frameworks": [
+    "Laravel",
+    "CodeIgniter"
+  ],
+
+  "Frontend Frameworks": [
+    "Vue.js",
+    "React.js",
+    "Next.js",
+    "Nuxt.js"
+  ],
+
+  "Mobile Development": [
+    "Android (Java)",
+    "Kotlin",
+    "React Native"
+  ],
+
+  "Databases": [
+    "MySQL",
+    "SQLite",
+    "PostgreSQL",
+    "MongoDB",
+    "Firebase"
+  ],
+
+  "ORM / ODM": [
+    "Eloquent ORM (Laravel)",
+    "Prisma",
+    "Mongoose"
+  ],
+
+  "Tools & Platforms": [
     "PhpStorm",
     "IntelliJ IDEA",
     "WebStorm",
@@ -45,5 +80,9 @@ I’m looking for opportunities that challenge me and help me grow as a develope
     "Trello",
     "Slack"
   ],
-  "VersionControl": ["Git", "GitHub"]
+
+  "Version Control": [
+    "Git",
+    "GitHub"
+  ]
 }
